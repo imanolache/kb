@@ -1,0 +1,11 @@
+https://www.boxuk.com/insight/blog-posts/creating-rest-api-quickly-using-pure-java
+
+
+https://github.com/deployd/deployd
+
+http://readwrite.com/2015/11/16/how-to-build-an-api-amazon-lambda/
+
+http://thenewstack.io/make-a-restful-json-api-go/
+
+
+restapitutorial.com

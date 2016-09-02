@@ -1,0 +1,6 @@
+https://github.com/threerings/nexus
+
+Distributed interactive application development framework
+
+Nexus is a framework for the development of distributed applications (including, but not limited to, massively multiplayer online games).
+
