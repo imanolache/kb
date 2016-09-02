@@ -1,0 +1,6 @@
+https://libraries.io/github/idugalic/micro-company
+  
+https://github.com/idugalic/micro-company
+  Rest-full, Hipermedia-based distributed application. Spring boot & cloud. CQRS. Eventsourcing. Axonframework. Microservices. Docker.
+
+https://benwilcock.wordpress.com/2016/06/20/microservices-with-spring-boot-axon-cqrses-and-docker/

@@ -1,0 +1,3 @@
+https://www.dajocarter.com/blog/hosting-my-static-site/
+
+The hosting providers I looked at were GitHub Pages, Surge, PubStorm, and Netlify. 

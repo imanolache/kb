@@ -1,0 +1,10 @@
+https://dzone.com/articles/developing-async-microservices-architecture-using
+
+https://github.com/ayman-elgharabawy/Kafka-SpringBoot-WebSocket
+
+
+https://dzone.com/articles/creating-a-blogging-platform-in-java-2
+
+https://stormpath.com/blog/spring-boot-migration
+https://github.com/stormpath/stormpath-default-spring-boot-starter-dirt-simple-sample
+

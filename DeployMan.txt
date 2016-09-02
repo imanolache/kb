@@ -1,0 +1,2 @@
+https://github.com/tuhrig/DeployMan
+  DeployMan is a command line tool to deploy Docker images to Amazon Web Services. It is an academic research for my master thesis and not ready for production! http://www.tuhrig.de 

@@ -1,0 +1,3 @@
+https://github.com/gk-brown/HTTP-RPC
+  Lightweight cross-platform REST services
+(templates ...)

@@ -1,0 +1,1 @@
+http://stackoverflow.com/questions/39281337/spark-streaming-architecture-for-api-calls

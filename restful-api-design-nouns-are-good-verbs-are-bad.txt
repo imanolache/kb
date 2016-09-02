@@ -1,0 +1,1 @@
+http://apigee.com/about/blog/technology/restful-api-design-nouns-are-good-verbs-are-bad

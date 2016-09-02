@@ -1,0 +1,3 @@
+http://www.openxrest.com/translatejs/
+
+https://github.com/muaz-khan/Translator

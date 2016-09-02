@@ -1,0 +1,4 @@
+https://github.com/reactor/lite-rx-api-hands-on
+
+https://speakerdeck.com/sdeleuze/a-lite-rx-api-for-the-jvm
+
